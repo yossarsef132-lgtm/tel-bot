@@ -1,0 +1,1 @@
+worker: python BOTV2.PY
